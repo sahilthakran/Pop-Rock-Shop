@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Pop Rock Crystel Shop
 
+Live url : https://pop-rock-crystal-shop.netlify.app/
+<a href="https://pop-rock-crystal-shop.netlify.app/">Live Demo</a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
